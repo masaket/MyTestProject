@@ -16,6 +16,7 @@ namespace HelloWorld
             Console.WriteLine(number*count);
             Console.WriteLine(FirstName);
             Console.ReadLine();
+            Console.WriteLine("Would you like to Play a game");
             
         }
     }
